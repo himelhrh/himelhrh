@@ -42,3 +42,8 @@
  <img align="left" alt="Himel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himelhrh&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh&show_icons=true&hide_border=true)](https://github.com/himelhrh)
+ 
+[twitter]: https://twitter.com/himel514
+[instagram]: https://instagram.com/hasibur_rahman_himel
+[linkedin]: https://www.linkedin.com/in/hasibur-rahman-261003221/
+[github]:  https://github.com/himelhrh
