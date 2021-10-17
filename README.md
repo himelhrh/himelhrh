@@ -35,3 +35,10 @@
 [<img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>][github]
 [<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
 [<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>][github]
+ 
+ <br>
+ <br>
+ 
+ <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabdeypolimi&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
