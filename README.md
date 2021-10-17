@@ -39,6 +39,6 @@
  <br>
  <br>
  
- <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabdeypolimi&show_icons=true&hide_border=true" />
+ <img align="left" alt="Himel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabdeypolimi&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/arnabdeypolimi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh&show_icons=true&hide_border=true)](https://github.com/himelhrh)
