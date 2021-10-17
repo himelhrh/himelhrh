@@ -28,7 +28,8 @@
 [<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arnabdey0503 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/17165379/hasibur-rahman)
+&nbsp;
 <br />
 
  ### Languages and Tools:
@@ -59,5 +60,4 @@
 [instagram]: https://instagram.com/hasibur_rahman_himel
 [linkedin]: https://www.linkedin.com/in/hasibur-rahman-261003221/
 [github]:  https://github.com/himelhrh
- [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/17165379/hasibur-rahman)
-&nbsp;
+ 
