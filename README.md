@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-[![Github](https://github.com/himelhrh)
+[![Github] (https://github.com/himelhrh)
 
 <div size='20px'> Hi! My name is Himel. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
