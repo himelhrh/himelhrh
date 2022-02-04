@@ -24,8 +24,6 @@ Studying Computer Science and Engineering
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=himelhrh&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=himelhrh)  
-
 ![GitHub metrics](https://metrics.lecoq.io/himelhrh)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himelhrh)  
