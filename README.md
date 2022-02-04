@@ -31,10 +31,10 @@ Studying Computer Science and Engineering
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himelhrh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh)](https://github.com/anuraghazra/github-readme-stats)
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=himelhrh&show_icons=true)  
-
+</p>
 ![GitHub metrics](https://metrics.lecoq.io/himelhrh)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himelhrh)  
