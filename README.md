@@ -29,14 +29,12 @@ Studying Computer Science and Engineering
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himelhrh)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himelhrh&show_icons=true)  
-</p>
-![GitHub metrics](https://metrics.lecoq.io/himelhrh)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh)](https://github.com/anuraghazra/github-readme-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=himelhrh&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himelhrh)  
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=himelhrh)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile views](https://gpvc.arturio.dev/himelhrh)  
