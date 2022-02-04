@@ -30,9 +30,10 @@ Studying Computer Science and Engineering
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/himelhrh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh)]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himelhrh)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=himelhrh&show_icons=true)
-(https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himelhrh)  
 
 
