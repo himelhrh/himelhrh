@@ -7,7 +7,6 @@ Studying Computer Science and Engineering
 - 🔭 I’m currently working on  I’m currently working on my course 
 - 🌱 I’m currently learning I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on I’m looking to collaborate on open source 
-- 🤔 I’m looking for help with I’m looking for help with Docker 
 - 💬 Ask me about Ask me about Soft Skills 
 - 📫 How to reach me: You can reach me via e-mail: himelhrh@gmail.com 
 - 😄 Pronouns: Pronouns: He/Him 
