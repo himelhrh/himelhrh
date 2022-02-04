@@ -4,13 +4,13 @@
 
 Studying Computer Science and Engineering
 
-- 🔭 I’m currently working on  I’m currently working on my course 
-- 🌱 I’m currently learning I’m currently learning Web Development 
-- 👯 I’m looking to collaborate on I’m looking to collaborate on open source 
-- 💬 Ask me about Ask me about Soft Skills 
+- 🔭 I’m currently working on my course 
+- 🌱 I’m currently learning Web Development 
+- 👯 I’m looking to collaborate on open source 
+- 💬 Ask me about Soft Skills 
 - 📫 How to reach me: You can reach me via e-mail: himelhrh@gmail.com 
-- 😄 Pronouns: Pronouns: He/Him 
-- ⚡ Fun fact:  Fun fact: I am very HAPPY!!! 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I am very HAPPY!!! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/himelhrh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasibur-rahman-261003221//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasibur.rahman.1088893/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasibur_rahman_himel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@himel514)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17165379/hasibur-rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC_F9hs_7ALLVnzb9BjWgiNw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://himelhrh.github.io/personal-site/)  
